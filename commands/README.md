@@ -82,7 +82,7 @@ The status command will show Tickety's current status and other information
 This command creates a new ticket for the executing user. Admins can tag a user as the first argument to open a ticket under their name.
 All words after the command that are not a tag of a user will be set as the subject of the ticket.
 
-Example: `-new @Stan#8888 I need help regarding Tickety`
+Example: `-new @Joseph#2475 I need help regarding Tickety`
 
 ### Close Ticket Command
 ```
@@ -128,7 +128,7 @@ When executed in a ticket channel you will have to provide the user ID as the fi
 When executed outside a ticket channel you can mention the user as first argument, and mention the channel as the second argument.
  
 Example inside ticket: `-add 352854019934257156`
-Example outside of ticket: `-add @Stan#8888 #ticket-0001`
+Example outside of ticket: `-add @Joseph#2475 #ticket-0001`
 
 ### Close all tickets command
 ```
@@ -148,7 +148,7 @@ Use this command carefully!
 When a user is spamming/abusing tickets, you may want to block him from opening tickets. You can do this with the blacklist command.
 It will prevent the user from using **any** Tickety commands.
 
-Example: `-blacklist @Stan#8888`
+Example: `-blacklist @Joseph#2475`
 
 ### Unblacklist Command
 ```
@@ -156,7 +156,7 @@ Example: `-blacklist @Stan#8888`
 ```
 If a blacklisted user has shown good behaviour you can unblacklist him, to allow him to open tickets again.
 
-Example: `-unblacklist @Stan#8888`
+Example: `-unblacklist @Joseph#2475`
 
 ### Blacklists Command
 ```
