@@ -15,15 +15,14 @@ Learn more about premium [here](/premium/).
 ## Our Team
 | Name | Role | Discord |
 | :--- | :--: | ------: |
-| Stan | Owner | Stan#8888 |
-| VanishedMC | Lead Developer | VanishedMC#6507 |
-| Joseph | Community Management | Joseph#2475 |
-| Adrianna | Support Team | AdriannaR#7923 |
-| Discover | Support Team | DiscoverCard#3343 |
-| Freeze | Support Team | FreezeBall1#0083 |
-| Jees1 | Support Team | Jees1#5825 |
-| Kristo | Support Team | Kristo#2178 |
-| Zack | Support Team | Zack#2020 |
-
-Stan is the rightful owner of Tickety, but has currently taken a step back due to time limitations.  
-The project is ran and updated by VanishedMC currently, with help from the support team.
+| VanishedMC | Lead Developer |
+| Joseph | Management |
+| Kyle | Operations |
+| Adrianna | Support Team |
+| Discover | Support Team |
+| Jees | Support Team |
+| Jen | Support Team |
+| Kris | Support Team |
+| Nick | Support Team |
+| Ollie | Support Team |
+| Zack | Support Team |
