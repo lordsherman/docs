@@ -13,8 +13,8 @@ We ask a small price for Tickety premium so that we are able to keep hosting and
 Learn more about premium [here](/premium/).
 
 ## Our Team
-| Name | Role | Discord |
-| :--- | :--: | ------: |
+| Name | Role |
+| :--- | :--: |
 | VanishedMC | Lead Developer |
 | Joseph | Management |
 | Kyle | Operations |
